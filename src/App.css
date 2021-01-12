@@ -1,3 +1,10 @@
 .heading {
 color: rgb(124, 0, 0);
 }
+.box{
+    height: 500px;
+    background-color: gray;
+}
+.daylight{
+    background-color: lightyellow;
+}
